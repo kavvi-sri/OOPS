@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\bin\Debug\Polymorpishm.exe.config
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\bin\Debug\Polymorpishm.exe
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\bin\Debug\Polymorpishm.pdb
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\obj\Debug\Polymorpishm.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\obj\Debug\Polymorpishm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\obj\Debug\Polymorpishm.exe
+C:\Users\user\source\repos\Polymorpishm\Polymorpishm\obj\Debug\Polymorpishm.pdb
